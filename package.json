@@ -1,0 +1,11 @@
+{
+  "name": "shm",
+  "version": "0.0.1",
+  "description": "Node.js shared memory read",
+  "main": "shm.js",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "nan": "*"
+  }
+}
